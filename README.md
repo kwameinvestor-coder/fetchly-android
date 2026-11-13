@@ -51,4 +51,6 @@ Only download content you own, that is licensed for reuse (for example Creative 
 
 ---
 
-This repository hosts the official Android releases of Fetchly. © 2026 [Braxvio](https://braxvio.com)
+This repository hosts the official Android releases of Fetchly.
+
+© 2026 [Braxvio](https://braxvio.com). All rights reserved. You're welcome to download and install the app for your own use. Please don't modify, re-upload or redistribute the APK, and link to this page instead.
